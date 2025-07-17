@@ -2,7 +2,7 @@
 
 ### Usage of Custom Scripts for Gene Mapping
 
-This explains the usage of the custom Python scripts developed to refine the gene map between *Fragaria vesca* genome versions v4.0 and v6.1.
+This explains the usage of the custom Python scripts developed to refine the gene map between *Fragaria vesca* genome versions v4.0 and v6.
 
 #### 1. `parse_trees_and_groups.py`: Parsing OrthoFinder Results and Generating Ortholog Pairs
 
